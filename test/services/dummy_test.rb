@@ -6,6 +6,6 @@ class DummyTest < ActiveSupport::TestCase
   end
 
   def test_dummy
-    assert_nil @organization_name
+    assert @organization_name
   end
 end
