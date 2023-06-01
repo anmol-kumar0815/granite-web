@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* Deployment statu
+* Deployment statuss
