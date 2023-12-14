@@ -26,3 +26,5 @@ Things you may want to cover:
 * Anmol Kumar
 
 * Umang aggarwal
+
+* Meenakshi Pathak
