@@ -24,3 +24,5 @@ Things you may want to cover:
 * Deployment status
 
 * Anmol Kumar
+
+* Umang aggarwal
