@@ -28,3 +28,5 @@ Things you may want to cover:
 * Umang aggarwal
 
 * Meenakshi Pathak
+
+* Shipra
