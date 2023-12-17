@@ -31,3 +31,4 @@ Things you may want to cover:
 
 * test 4
 * test 5
+* test 6
